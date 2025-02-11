@@ -23,19 +23,23 @@
     </ul>
     <h2>Installation & Setup</h2>
     <pre>
-    
+
 1.  Clone the repository:
-git clone https://github.com/yourusername/college-marketplace.git
+<code>git clone https://github.com/yourusername/college-marketplace.git</code>
+
 2.  Navigate to the project directory:
-cd college-marketplace
+<code>cd college-marketplace</code>
+
 3.  Install dependencies using Vite:
-npm create vite@latest
+<code>npm create vite@latest</code>
+
 4.  Install additional dependencies:
-npm install
+ <code>npm install</code>
+
 5.  Run the development server:
-npm run dev
-6.  Open http://localhost:5173 to view the app in the browser.
-</pre>
+ <code>npm run dev</code>
+ 
+6.  Open http://localhost:5173 to view the app in the browser.</pre>
         <h2>Contributing</h2>
         <ul>
             <li>Fork the repository.</li>
