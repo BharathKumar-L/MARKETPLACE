@@ -1,43 +1,4 @@
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-        background: linear-gradient(90deg, #e0a3ff, #d1b3ff, #c5aaec, #c5aaec, #d1b3ff, #e0a3ff);
-        color: #333;
-    }
-    .container {
-        width: 80%;
-        margin: auto;
-        background: #fff;
-        padding: 20px;
-        border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        margin-top: 20px;
-    }
-    h1, h2 {
-        color: #5a189a;
-        text-align: center;
-    }
-    ul {
-        list-style-type: square;
-        padding-left: 20px;
-    }
-    pre {
-        background: #f4f4f4;
-        padding: 10px;
-        border-radius: 5px;
-        overflow-x: auto;
-    }
-    .footer {
-        text-align: center;
-        margin-top: 20px;
-        padding: 10px;
-        background: #5a189a;
-        color: white;
-        border-radius: 0 0 10px 10px;
-    }
-</style>
+
 <div class="container">
     <h1>College Marketplace</h1>
     <h2>Overview</h2>
