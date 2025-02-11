@@ -1,4 +1,4 @@
-/* body,img,a {
+body,img,a {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -khtml-user-select: none;
@@ -6,4 +6,4 @@
   -ms-user-select: none;
   user-select: none;
   -webkit-user-drag: none;    
-} */
+}
