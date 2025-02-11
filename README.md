@@ -23,7 +23,6 @@
     </ul>
     <h2>Installation & Setup</h2>
     <pre>
-
 1.  Clone the repository:
 git clone https://github.com/yourusername/college-marketplace.git
 2.  Navigate to the project directory:
@@ -34,8 +33,7 @@ npm create vite@latest
 npm install
 5.  Run the development server:
 npm run dev
-6.  Open http://localhost:5173 to view the app in the browser.
-</pre>
+6.  Open http://localhost:5173 to view the app in the browser.</pre>
         <h2>Contributing</h2>
         <ul>
             <li>Fork the repository.</li>
@@ -45,6 +43,6 @@ npm run dev
             <li>Open a pull request.</li>
         </ul>
         <div class="footer">
-            <p>For any queries or contributions, feel free to reach out at <a href="mailto:your.email@example.com" style="color: white;">your.email@example.com</a></p>
+            <p>For any queries or contributions, feel free to reach out at <a href="mailto:your.email@example.com" style="color: white;">collegemarketplace25@gmail.com</a></p>
         </div>
     </div>
