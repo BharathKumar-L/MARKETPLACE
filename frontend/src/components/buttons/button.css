@@ -1,0 +1,17 @@
+.btn-login{
+    background-color: rgba(0, 255, 30, 0.5);
+    backdrop-filter: blur(10px);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 200px;
+    font-size: 18px;
+    margin-top: 30px;  
+    transition: all 0.3s ease-in-out;
+}
+.btn-login:hover{
+    border: 1px solid #15ff00  ;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 4px 6px 15px #33ff00;
+}
